@@ -18,7 +18,7 @@ while True:
       students[name]=status
       print("Attendance marked successfully")
     else:
-    print("Student not found")
+      print("Student not found")
   elif choice == "3":
     print("\nAttendance Recors: ")
     for name, status in students.items():
