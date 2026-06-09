@@ -1,1 +1,1 @@
-print(Attendance Management System)
+print("Attendance Management System")
