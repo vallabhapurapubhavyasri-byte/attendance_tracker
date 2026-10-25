@@ -1,7 +1,7 @@
 print("Attendance Management System")
 students={}
 while True:
-  print("\n---Attendance Management System ---")
+  print("\nAttendance Management System ")
   print("1. Add Student")
   print("2. Mark Attendance")
   print("3. View Attendance")
